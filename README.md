@@ -1,5 +1,3 @@
-# Assignment03---Topsis-for-Pretrained-Models
-TEXT CLASSIFICATION
 **Title: Evaluating Pre-Trained Models for Text Classification Using TOPSIS**
 
 **1. Introduction**
